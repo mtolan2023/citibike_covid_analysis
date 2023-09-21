@@ -1,4 +1,5 @@
-# citibike_preprocessing
+## Citibike Data Cleaning for Tableau Analysis
+
 Reducing CitiBike data for use in Tableau COVID impact assessment
 
 This repo holds the processing files for reducing and merging data for multiple months to be used in Tableau.
